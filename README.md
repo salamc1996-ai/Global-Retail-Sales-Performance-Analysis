@@ -16,7 +16,7 @@ Trend Analysis: Annual and long-term analysis of sales and revenue trends to ide
 Technical Workflow
 Data Preparation: Raw data cleaning and initial exploratory analysis were conducted in Excel.
 
-Data Processing & Modeling: Advanced data transformation, relational modeling, and the implementation of business logic were performed directly in SQL Server, ensuring a structured and optimized dataset for reporting.
+Data Processing & Modeling: Advanced data transformation, relational modeling, and the implementation of business logic were performed directly in SQL Server, ensuring a structured and optimized dataset for reporting..
 
 Visualization: Interactive dashboards were developed in Power BI, transforming the processed datasets into comprehensive visual reports and charts.
 <img width="1366" height="768" alt="Screenshot" src="https://github.com/user-attachments/assets/d3576ee5-e8a7-42c0-a04f-aaa1e78f6f14" />
