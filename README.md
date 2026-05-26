@@ -20,4 +20,8 @@ Data Processing & Modeling: Advanced data transformation, relational modeling, a
 
 Visualization: Interactive dashboards were developed in Power BI, transforming the processed datasets into comprehensive visual reports and charts.
 <img width="1366" height="768" alt="Screenshot" src="https://github.com/user-attachments/assets/d3576ee5-e8a7-42c0-a04f-aaa1e78f6f14" />
+<img width="1366" height="768" alt="Screenshot " src="https://github.com/user-attachments/assets/08948af3-4d57-47d9-8be9-615d86266b6b" />
+<img width="1366" height="768" alt="Screenshot " src="https://github.com/user-attachments/assets/d866bf46-8240-4075-9ac0-4274bbbeab84" />
+
+
 
